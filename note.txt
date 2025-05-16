@@ -1,0 +1,2 @@
+In fact, we could use makesig plugin in IDA to do things like the script do.
+See https://hex-rays.com/blog/an-overview-of-the-makesig-plugin
